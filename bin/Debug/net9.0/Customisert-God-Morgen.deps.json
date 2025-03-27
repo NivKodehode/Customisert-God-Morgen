@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Customisert-God-Morgen/1.0.0": {
+        "runtime": {
+          "Customisert-God-Morgen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Customisert-God-Morgen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

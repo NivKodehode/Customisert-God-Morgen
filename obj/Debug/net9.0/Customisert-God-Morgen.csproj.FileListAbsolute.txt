@@ -1,0 +1,14 @@
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\bin\Debug\net9.0\Customisert-God-Morgen.exe
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\bin\Debug\net9.0\Customisert-God-Morgen.deps.json
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\bin\Debug\net9.0\Customisert-God-Morgen.runtimeconfig.json
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\bin\Debug\net9.0\Customisert-God-Morgen.dll
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\bin\Debug\net9.0\Customisert-God-Morgen.pdb
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\Customisert-God-Morgen.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\Customisert-God-Morgen.AssemblyInfoInputs.cache
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\Customisert-God-Morgen.AssemblyInfo.cs
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\Customisert-God-Morgen.csproj.CoreCompileInputs.cache
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\Customisert-God-Morgen.dll
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\refint\Customisert-God-Morgen.dll
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\Customisert-God-Morgen.pdb
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\Customisert-God-Morgen.genruntimeconfig.cache
+c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\ref\Customisert-God-Morgen.dll
