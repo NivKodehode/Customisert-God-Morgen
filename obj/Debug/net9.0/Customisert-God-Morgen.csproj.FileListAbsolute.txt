@@ -12,3 +12,4 @@ c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\r
 c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\Customisert-God-Morgen.pdb
 c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\Customisert-God-Morgen.genruntimeconfig.cache
 c:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\ref\Customisert-God-Morgen.dll
+C:\Users\nivba\OneDrive\Skrivebord\C #\Customisert-God-Morgen\obj\Debug\net9.0\Customisert-God-Morgen.sourcelink.json
