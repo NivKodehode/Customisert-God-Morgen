@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Customisert-God-Morgen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+830c480adab50a5996f0b67704d8841453796fa2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d2dcfd10b2662e25ff29e2543ab5dc357a336e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Customisert-God-Morgen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Customisert-God-Morgen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

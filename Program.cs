@@ -26,6 +26,6 @@ class Program
             Console.WriteLine($"Good night!");
         }
 
-        Console.WriteLine ($"The time is {time}!");
+        Console.WriteLine ($"The time is {time} o-clock!");
     }
 }
